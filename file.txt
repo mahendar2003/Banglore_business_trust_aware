@@ -1,0 +1,29 @@
+
+## 📱 Mobile Responsive
+
+The application is fully responsive and works seamlessly on:
+- Desktop (1920px+)
+- Tablet (768px-1024px)
+- Mobile (320px-768px)
+
+## 🔒 Security Notes
+
+- Demo accounts only (no real authentication)
+- Client-side data simulation
+- No external API calls
+- Local storage for session management
+
+## 📄 License
+
+MIT License - feel free to use for educational and demonstration purposes.
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+---
+
+**Built with ❤️ for Bangalore's business ecosystem**

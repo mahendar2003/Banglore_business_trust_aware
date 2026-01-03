@@ -1,0 +1,34 @@
+[
+  {
+    "id": "biz_001",
+    "name": "Blue Orchid Restaurant",
+    "category": "Restaurant",
+    "location": "Whitefield",
+    "avgRating": 4.5,
+    "totalCustomers": 1250,
+    "responseRate": 0.92,
+    "trustScore": 85,
+    "revenue": 2500000,
+    "employeeCount": 25,
+    "yearsInBusiness": 5,
+    "customerSatisfaction": 4.3,
+    "avgOrderValue": 1200,
+    "monthlyGrowth": 12.5
+  },
+  {
+    "id": "biz_002",
+    "name": "TechHub Solutions",
+    "category": "Technology",
+    "location": "Electronic City",
+    "avgRating": 4.1,
+    "totalCustomers": 850,
+    "responseRate": 0.88,
+    "trustScore": 78,
+    "revenue": 4200000,
+    "employeeCount": 45,
+    "yearsInBusiness": 8,
+    "customerSatisfaction": 4.0,
+    "avgOrderValue": 8500,
+    "monthlyGrowth": 8.3
+  }
+]

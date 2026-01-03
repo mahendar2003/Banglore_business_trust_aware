@@ -1,0 +1,36 @@
+[
+  {
+    "id": "cust_001",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@email.com",
+    "location": "Whitefield",
+    "avgRating": 4.2,
+    "repeatVisits": 12,
+    "noComplaints": true,
+    "responseTimeScore": 4,
+    "totalSpent": 45000,
+    "lastPurchase": "2024-01-15",
+    "loyaltyStatus": "Gold",
+    "riskLevel": "Low",
+    "preferredCategories": ["Restaurant", "Retail"],
+    "communicationPreference": "email",
+    "nextPurchasePrediction": "2024-02-01"
+  },
+  {
+    "id": "cust_002",
+    "name": "Rahul Kumar",
+    "email": "rahul.kumar@email.com",
+    "location": "Indiranagar",
+    "avgRating": 3.8,
+    "repeatVisits": 5,
+    "noComplaints": false,
+    "responseTimeScore": 3,
+    "totalSpent": 28000,
+    "lastPurchase": "2024-01-10",
+    "loyaltyStatus": "Silver",
+    "riskLevel": "Medium",
+    "preferredCategories": ["Technology", "Services"],
+    "communicationPreference": "sms",
+    "nextPurchasePrediction": "2024-02-15"
+  }
+]

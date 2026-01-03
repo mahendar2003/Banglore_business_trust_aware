@@ -1,0 +1,28 @@
+[
+  {
+    "id": "pot_001",
+    "category": "Cafe",
+    "location": "HSR Layout",
+    "marketDemand": "High",
+    "competition": "Medium",
+    "estimatedTrust": 75,
+    "startupCost": 800000,
+    "expectedRevenue": 1800000,
+    "timeToProfit": 8,
+    "marketSize": 15000,
+    "growthRate": 18
+  },
+  {
+    "id": "pot_002",
+    "category": "Fitness",
+    "location": "Yelahanka",
+    "marketDemand": "Medium",
+    "competition": "Low",
+    "estimatedTrust": 82,
+    "startupCost": 1200000,
+    "expectedRevenue": 2400000,
+    "timeToProfit": 10,
+    "marketSize": 8000,
+    "growthRate": 22
+  }
+]
